@@ -1,17 +1,8 @@
 ## Hi there 👋, I'm Natàlia
 
-I'm a Frontend developer from Barcelona.
+I'm a Frontend developer specializing in React
 
-
-- 🔭 I’m currently working on ITA WIKI
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on <a href="https://dev.itawiki.eurecatacademy.org/">ITA WIKI</a>
 
 Skills:
 
