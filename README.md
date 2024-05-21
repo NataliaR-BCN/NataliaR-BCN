@@ -8,7 +8,7 @@ I'm a Frontend developer specializing in React.
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,ts)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents,bootstrap,sass)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=jest,vitest)](https://skillicons.dev)
 
